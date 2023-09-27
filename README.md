@@ -46,9 +46,10 @@ To install Apache , we use commands seen below .
  '$ sudo systemctl status apache2'
  
 ![apache2 status](https://github.com/NANA-2016/LAMP-STACK/assets/141503408/671226b7-9323-42f3-9639-7df17fcf5bac)
-
  
-
+We now need to activate TCP 80 which web browser use as an acess to web pages on the internet. This is done by changing the inbound rules and 
+ 
+ selecting TCP 80 to access it via ssh. Now you will have Port 22 which is open on default on AWS and port 80 .
 
 
 
