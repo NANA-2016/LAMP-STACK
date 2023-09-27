@@ -25,6 +25,16 @@ The second step involves connecting the vurtual server to AWS instance using the
 
 ## STEP 1- Installing apache2 and updating the fire wall.
 
+Apache is free and its open source hence it is widely used  as a webserver .
+
+To install Apache , we use commands seen below .
+
+   -'$ sudo apt update' these is used to ensure system update.
+   
+![Alt text](<sudo apt install apache-2.png>)
+
+   
+
 
 
 
