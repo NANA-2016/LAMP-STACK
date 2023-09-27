@@ -57,6 +57,9 @@ We now need to activate TCP 80 which web browser use as an acess to web pages on
 
  ![curl command](https://github.com/NANA-2016/LAMP-STACK/assets/141503408/3bd8e0fc-2ee5-44f4-aa08-68a61ef467d2)
 
+ It demonstrates a very interesting pattern.
+
+   LASTLY WE NEED TO CHECK ON OUR BROWSER IF OUR OUT "Apache http server can be found on the internet using any browser."
 
  
 
