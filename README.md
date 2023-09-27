@@ -82,6 +82,25 @@ We now need to activate TCP 80 which web browser use as an acess to web pages on
     
 ![install mysqp,change password and exit console -1](https://github.com/NANA-2016/LAMP-STACK/assets/141503408/f0ce490c-9bcb-424e-8670-8f40aa598011)
 
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'PassWord.1';- allows change of password as demonstrated on the above 
+   
+   screen shot on line 10 just after the word  msql.
+
+    All the other commands are preceded by green highlighted text . 
+
+     These commands are 
+     
+- sudo apt install mysql-server
+
+     -  sudo mysql
+     
+       -  mysql> exit
+
+
+    ## Step 3 -Installing PHP
+
+
+
     
 
     
