@@ -133,6 +133,9 @@ the command 'php -v'
 ![directory and file creation,](https://github.com/NANA-2016/LAMP-STACK/assets/141503408/e307bbe5-7ad3-4bdd-ad22-4dd16a93f15b)
 
  Next step involve enabling the vitual host  with a2ensite and disabling the Apache Default website by use of a2dissite as demonstrated below.
+
+![a2ensite,a2dissite,ctl, config and ctl reload-1](https://github.com/NANA-2016/LAMP-STACK/assets/141503408/7e369684-e38b-4822-831a-5e8e2f6f8794)
+ 
  
   
   
