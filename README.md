@@ -39,7 +39,11 @@ To install Apache , we use commands seen below .
 
    
 
-   
+    To ensure the apache2 is running as as a service in our OS, a command that is used gives results highlighted in green to show *active and running*
+
+ the comand is as shown below as well as on the screen shot with the expected outcome .
+
+ '$ sudo systemctl status apache2'
 
 
 
