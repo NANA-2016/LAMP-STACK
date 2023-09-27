@@ -30,10 +30,9 @@ Apache is free and its open source hence it is widely used  as a webserver .
 To install Apache , we use commands seen below .
 
    -'$ sudo apt update' these is used to ensure system update.
-   
 
+   ![sudo apt update](https://github.com/NANA-2016/LAMP-STACK/assets/141503408/2c433af7-7470-478d-99fe-75179c1717d1)
 
-   
 
 
 
