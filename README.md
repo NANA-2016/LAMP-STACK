@@ -188,6 +188,9 @@ As demostrated by the php page screenshot above , The page has lots of private i
 The command used is 'sudo rm /var/www/projectlamp/index.php' demonstrated on the screenshot file creation and removal above.
 
  ![php file creation and removal](https://github.com/NANA-2016/LAMP-STACK/assets/141503408/fecc2171-ef14-4e9b-b0f8-a48585013eeb)
+
+
+ #THANK YOU!!
    
 
 
