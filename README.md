@@ -33,6 +33,10 @@ To install Apache , we use commands seen below .
 
    ![sudo apt update](https://github.com/NANA-2016/LAMP-STACK/assets/141503408/2c433af7-7470-478d-99fe-75179c1717d1)
 
+   -'$ sudo apt install apache2' as these helps install apache2
+
+   
+
 
 
 
