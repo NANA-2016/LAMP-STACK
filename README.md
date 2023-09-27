@@ -181,10 +181,13 @@ the command 'php -v'
 
   See screenshots below.
 
-   ![php file creation and removal](https://github.com/NANA-2016/LAMP-STACK/assets/141503408/fecc2171-ef14-4e9b-b0f8-a48585013eeb)
-
 ![php  server info](https://github.com/NANA-2016/LAMP-STACK/assets/141503408/281d6272-6ce2-4a47-bb2c-a70e2ba7a253)
 
+As demostrated by the php page screenshot above , The page has lots of private information about the PHP server  hence the file has to be deleted for securithy purposes.
+    
+The command used is 'sudo rm /var/www/projectlamp/index.php' demonstrated on the screenshot file creation and removal above.
+
+ ![php file creation and removal](https://github.com/NANA-2016/LAMP-STACK/assets/141503408/fecc2171-ef14-4e9b-b0f8-a48585013eeb)
    
 
 
