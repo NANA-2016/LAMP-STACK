@@ -181,7 +181,12 @@ the command 'php -v'
 
   See screenshots below.
 
+   ![php file creation and removal](https://github.com/NANA-2016/LAMP-STACK/assets/141503408/fecc2171-ef14-4e9b-b0f8-a48585013eeb)
+
+![php  server info](https://github.com/NANA-2016/LAMP-STACK/assets/141503408/281d6272-6ce2-4a47-bb2c-a70e2ba7a253)
+
    
+
 
 
  
