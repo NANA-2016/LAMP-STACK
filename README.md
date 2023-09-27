@@ -31,7 +31,7 @@ To install Apache , we use commands seen below .
 
    -'$ sudo apt update' these is used to ensure system update.
    
-![Alt text](<sudo apt install apache-2.png>)
+
 
    
 
