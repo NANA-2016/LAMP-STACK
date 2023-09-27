@@ -66,6 +66,21 @@ We now need to activate TCP 80 which web browser use as an acess to web pages on
     **IT WORKS  !!**
 
     
+ ## Step 2-Installing Mysql
+
+  Mysql has to be installed using the command  'sudo apt install mysql-server'. as it is running, there is always a prompt asking  if you want to
+  
+   continue with the installation. hence if you want to continue you type Y then ENTER.
+
+   $ sudo mysql
+
+    This is a command run that comnnects mysql server as the administrativedata base root. For security purposes on the data base a password reset 
+    
+    is needeed for the root user . Fot this prooject the password used is PassWord.1 Which was done with the command shown below before exiting 
+    
+    mysql.
+
+    
 
 
  
