@@ -129,6 +129,9 @@ the command 'php -v'
   After creating a directory a file new file in Apaches sites available . Thes commands are 'sudo mkdir /var/www/projectlamp',' sudo chown -R 
   
   $USER:$USER /var/www/projectlamp', 'sudo chown -R $USER:$USER /var/www/project.conf
+
+![directory and file creation,](https://github.com/NANA-2016/LAMP-STACK/assets/141503408/e307bbe5-7ad3-4bdd-ad22-4dd16a93f15b)
+  
   
     
 
