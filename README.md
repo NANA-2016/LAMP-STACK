@@ -79,6 +79,10 @@ We now need to activate TCP 80 which web browser use as an acess to web pages on
     is needeed for the root user . Fot this prooject the password used is PassWord.1 Which was done with the command shown below before exiting 
     
     mysql.
+    
+![install mysqp,change password and exit console -1](https://github.com/NANA-2016/LAMP-STACK/assets/141503408/f0ce490c-9bcb-424e-8670-8f40aa598011)
+
+    
 
     
 
