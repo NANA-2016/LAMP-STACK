@@ -99,6 +99,23 @@ ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'PassWord
 
     ## Step 3 -Installing PHP
 
+  
+Installing PHP involves only 2 steps. 
+
+   The first step is running command 'sudo apt install php libapache2-mod-php php-mysql'.
+
+    this command ensures the 3packages which help ensure PHP is running smoothly all at once . 
+
+These parkages are 
+- php- procasses data which is relayed to the end user .
+
+- php-mysql-allows communication between php and mysql data
+
+ - libapache2-mod-php- enables PHP handles its files.
+
+Attached below is a screen shot of the  the two coammands used  to show php installation plus proving  which php version has been installed with 
+
+the command 'php -v'
 
 
     
