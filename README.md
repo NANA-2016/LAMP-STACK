@@ -117,6 +117,7 @@ Attached below is a screen shot of the  the two coammands used  to show php inst
 
 the command 'php -v'
 
+![php packages installation and php -v](https://github.com/NANA-2016/LAMP-STACK/assets/141503408/e38286d2-c07a-4dd1-8576-971c8ebe1c75)
 
     
 
