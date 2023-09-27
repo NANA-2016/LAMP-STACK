@@ -63,6 +63,8 @@ We now need to activate TCP 80 which web browser use as an acess to web pages on
 
    ![apache2 installed](https://github.com/NANA-2016/LAMP-STACK/assets/141503408/938d4a91-b1b0-42a7-9327-7fa923075f78)
 
+    **IT WORKS  !!**
+
 
  
 
