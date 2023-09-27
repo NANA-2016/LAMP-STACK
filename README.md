@@ -155,6 +155,32 @@ the command 'php -v'
 
    ![hello lamp](https://github.com/NANA-2016/LAMP-STACK/assets/141503408/20a1b050-f3f5-4c9a-8584-1c2d2458004f)
 
+   And it worked .!!!
+
+  ## step 5- Enable php on the website.
+
+   In this step, an *index.html* file is created to allow seting up maintainance pages in php. using 'sudo vim /etc/apache2/mods-enabled/dir.conf'
+
+   command. where the expected outcome is as demonstrated by the code below.
+
+   <IfModule mod_dir.c>
+
+        #Change this:
+
+        #DirectoryIndex index.html index.cgi index.pl index.php index.xhtml index.htm
+
+        #To this:
+
+        DirectoryIndex index.php index.html index.cgi index.pl index.xhtml index.htm
+
+</IfModule>
+
+ Next thing is to reload apache2 for the changes to take effect and then create a file *index.php* to help create a php test script to ensure 
+ 
+ Apache is able to handle and process requests for php.
+
+  See screenshots below.
+
    
 
 
