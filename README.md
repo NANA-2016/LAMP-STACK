@@ -44,6 +44,10 @@ To install Apache , we use commands seen below .
  the comand is as shown below as well as on the screen shot with the expected outcome .
 
  '$ sudo systemctl status apache2'
+ 
+![apache2 status](https://github.com/NANA-2016/LAMP-STACK/assets/141503408/671226b7-9323-42f3-9639-7df17fcf5bac)
+
+ 
 
 
 
