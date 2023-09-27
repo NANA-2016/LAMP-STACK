@@ -152,6 +152,9 @@ the command 'php -v'
 
    ![echo](https://github.com/NANA-2016/LAMP-STACK/assets/141503408/cec4e58f-46be-4e40-aeb4-76eb0f47ff50)
 
+   ![hello lamp](https://github.com/NANA-2016/LAMP-STACK/assets/141503408/20a1b050-f3f5-4c9a-8584-1c2d2458004f)
+
+
  
   
   
