@@ -136,6 +136,19 @@ the command 'php -v'
 
 ![a2ensite,a2dissite,ctl, config and ctl reload-1](https://github.com/NANA-2016/LAMP-STACK/assets/141503408/7e369684-e38b-4822-831a-5e8e2f6f8794)
  
+ APart from that we also need to reload and and check for any syntax errors ,run using the commands below as demostrated on the two last commands 
+    
+    on the above screenshot.
+
+- sudo systemctl reload apache2
+
+-  sudo apache2ctl configtest
+
+  This long command helps use test if the virtual host is wirkinhf by creating an echo on the browser which can bee seen when you open the website
+  
+   using your ip adress.
+
+   'sudo echo 'Hello LAMP from hostname' $(curl -s http://169.254.169.254/latest/meta-data/public-hostname) 'with public IP' $(curl -s http://169.254.169.254/latest/meta-data/public-ipv4) > /var/www/projectlamp/index.html'
  
   
   
