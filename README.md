@@ -131,6 +131,9 @@ the command 'php -v'
   $USER:$USER /var/www/projectlamp', 'sudo chown -R $USER:$USER /var/www/project.conf
 
 ![directory and file creation,](https://github.com/NANA-2016/LAMP-STACK/assets/141503408/e307bbe5-7ad3-4bdd-ad22-4dd16a93f15b)
+
+ Next step involve enabling the vitual host  with a2ensite and disabling the Apache Default website by use of a2dissite as demonstrated below.
+ 
   
   
     
