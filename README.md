@@ -19,11 +19,9 @@ The second step involves connecting the vurtual server to AWS instance using the
 
                                            -ssh -i <private-key-name>.pem ubuntu@<Public-IP-address
 
- The screen shot below shows the expected results verifying creation of linux server into the cloud.
+ The screen shot below shows the expected results verifying creation of linux server into the cloud
 
-
-
-
+![connect to instance ](https://github.com/NANA-2016/LAMP-STACK/assets/141503408/09dee193-367b-42fa-8011-897a7db418fe)
 
 
 
