@@ -50,6 +50,10 @@ To install Apache , we use commands seen below .
 We now need to activate TCP 80 which web browser use as an acess to web pages on the internet. This is done by changing the inbound rules and 
  
  selecting TCP 80 to access it via ssh. Now you will have Port 22 which is open on default on AWS and port 80 .
+ 
+![inbound connection through port 80](https://github.com/NANA-2016/LAMP-STACK/assets/141503408/b98a276c-ecb5-4c8f-98b1-d3142e953d3b)
+
+ 
 
 
 
