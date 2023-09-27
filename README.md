@@ -119,6 +119,17 @@ the command 'php -v'
 
 ![php packages installation and php -v](https://github.com/NANA-2016/LAMP-STACK/assets/141503408/e38286d2-c07a-4dd1-8576-971c8ebe1c75)
 
+
+## Step-4 Creating a virtual host using apache
+
+ The domain set up here is called *projectlamp*
+ 
+ We first start by creating a directory then assisgn the ownership of the directory referencing the current system user . The command below is used as demonstrated in the screenshot below.
+
+  After creating a directory a file new file in Apaches sites available . Thes commands are 'sudo mkdir /var/www/projectlamp',' sudo chown -R 
+  
+  $USER:$USER /var/www/projectlamp', 'sudo chown -R $USER:$USER /var/www/project.conf
+  
     
 
     
