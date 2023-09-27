@@ -53,6 +53,8 @@ We now need to activate TCP 80 which web browser use as an acess to web pages on
  
 ![inbound connection through port 80](https://github.com/NANA-2016/LAMP-STACK/assets/141503408/b98a276c-ecb5-4c8f-98b1-d3142e953d3b)
 
+ Then now we can move to the curl command which helps us request our Apacche HTTP Server on port 80 using the DNS name or the IP address. Here  the command I used is' $ curl http://localhost'
+
  
 
 
