@@ -149,6 +149,9 @@ the command 'php -v'
    using your ip adress.
 
    'sudo echo 'Hello LAMP from hostname' $(curl -s http://169.254.169.254/latest/meta-data/public-hostname) 'with public IP' $(curl -s http://169.254.169.254/latest/meta-data/public-ipv4) > /var/www/projectlamp/index.html'
+
+   ![echo](https://github.com/NANA-2016/LAMP-STACK/assets/141503408/cec4e58f-46be-4e40-aeb4-76eb0f47ff50)
+
  
   
   
